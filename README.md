@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://chrisesbueno.github.io/my-gallery/">
       Demo
     </a>
     <span> | </span>
@@ -34,13 +34,16 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/my-gallery/main/DesktopVersion.png)
+![screenshot](https://raw.githubusercontent.com/Chrisesbueno/my-gallery/main/MobileVersion.png)
 
 - Where can I see your demo?
+  <h3><a href="https://chrisesbueno.github.io/my-gallery/"> Demo </a></h3>
 - What was your experience?
+  <h3>It was easier than the previous ones.</h3>
 - What have you learned/improved?
-- Your wisdom? :)
+  <h3>
+I feel that I am already learning and I want to look for something more advanced but I will finish the challenges</h3>
 
 ## Features
 
@@ -50,5 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/chrisesbueno})
-- Twitter [@your-twitter](https://{twitter.com/chrisesbueno})
+- GitHub [@chrisesbueno](https://github.com/chrisesbueno)
+- Twitter [@chrisesbueno](https://twitter.com/chrisesbueno)
